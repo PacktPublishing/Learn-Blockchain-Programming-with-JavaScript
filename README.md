@@ -32,7 +32,7 @@ Blockchain.prototype.createNewBlock = function () {
 ```
 
 **Following is what you need for this book:**
-Learn Blockchain Programming with JavaScript is for JavaScript developers who wish to learn about blockchain programming or build their own blockchain using JavaScript frameworks.
+_Learn Blockchain Programming with JavaScript_ is for JavaScript developers who wish to learn about blockchain programming or build their own blockchain using JavaScript frameworks.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-8).
 
