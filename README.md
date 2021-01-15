@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/learn-blockchain-programming-with-javascript/9781789618822)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1789618827).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Learn Blockchain Programming with JavaScript
 
 <a href="https://www.packtpub.com/web-development/learn-blockchain-programming-javascript?utm_source=github&utm_medium=repository&utm_campaign=9781789618822"><img src="https://www.packtpub.com/sites/default/files/B12086.png" alt="Learn Blockchain Programming with JavaScript" height="256px" align="right"></a>
